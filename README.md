@@ -5,7 +5,7 @@ I've used nanoid instead of shortId, the latest version of nanoid doesn't work w
 URL Shortner
 http://localhost:8080/:shortId
 
-<h4>Analytics</h4>
+<h3>Analytics</h3>
 http://localhost:8080/url/analytics/:shortId
 
 <h3> /POST URL</h3>
